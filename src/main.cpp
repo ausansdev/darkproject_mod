@@ -7,8 +7,10 @@ class $modify(MenuLayer) {
     bool init() {
         if (!MenuLayer::init()) return false;
 
+        this->removeAllChildrens();
+
         auto label = CCLabelBMFont::create("darkproject v1.1", "bigFont.fnt");
-        label->setPosition(100, 100);
+        label->setPosition(170, 60);
         this->addChild(label);
 
         return true;
