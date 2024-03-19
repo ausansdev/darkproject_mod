@@ -11,5 +11,5 @@ class $modify(MenuLayer) {
             "OK"
         )->show(); 
     }
-    this->removeAllChildrens()
+    this->removeAllChildrens();
 };
