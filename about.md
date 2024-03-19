@@ -1,6 +1,8 @@
-# extended-mod-info-popup
+# darkprojmod
 
-- downloads count label of last release
-- button to open website page of mod
-- last release size label
-- last release update time label
+## DO NOT COPY OR FORK THIS MOD.
+
+This is official mod for Dark Project GDPS made by ausansdev.
+Features:
+- New UI
+- NONG support
